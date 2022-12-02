@@ -1,2 +1,6 @@
-console.log("I don't like apples")
-console.log("i don't like pears")
+const printFruit = () => {
+    console.log("i like apples");
+    console.log("i dont like pears");
+}
+
+printFruit();
